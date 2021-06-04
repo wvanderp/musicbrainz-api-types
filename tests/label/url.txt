@@ -1,0 +1,13 @@
+
+http://musicbrainz.org/ws/2/label/{uuid}?fmt=json&inc=releases+aliases+annotation+tags+ratings+genres+area-rels+artist-rels+event-rels+instrument-rels+label-rels+place-rels+recording-rels+release-rels+release-group-rels+series-rels+url-rels+work-rels+
+
+
+
+
+releases
+
+aliases+annotation+tags+ratings+genres
+
+area-rels+artist-rels+event-rels+instrument-rels+label-rels+place-rels+recording-rels+release-rels+release-group-rels+series-rels+url-rels+work-rels+
+
+

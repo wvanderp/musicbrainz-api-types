@@ -1,0 +1,8 @@
+
+http://musicbrainz.org/ws/2/artist/{uuid}?fmt=json&inc=area-rels+artist-rels+event-rels+instrument-rels+label-rels+place-rels+recording-rels+release-rels+release-group-rels+series-rels+url-rels+work-rels+recordings+releases+release-groups+works+aliases+annotation+tags+ratings+genres
+
+recordings+releases+release-groups+works
+
+aliases+annotation+tags+ratings+genres
+
+area-rels+artist-rels+event-rels+instrument-rels+label-rels+place-rels+recording-rels+release-rels+release-group-rels+series-rels+url-rels+work-rels+

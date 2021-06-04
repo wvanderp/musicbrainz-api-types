@@ -1,0 +1,740 @@
+{
+    "created": "2021-05-16T21:27:02.248Z",
+    "count": 14,
+    "offset": 0,
+    "artists": [
+        {
+            "id": "4a024fd4-305e-4fea-9d3f-4ec858766e6e",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "Fred",
+            "sort-name": "Fred",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "US comic barbershop quartet",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "e56fd97e-c18f-4e5e-9b4d-f9fc21b4973f",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 99,
+            "name": "Fred",
+            "sort-name": "Fred",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "US progressive rock band",
+            "life-span": {
+                "begin": "1969",
+                "end": "1974",
+                "ended": true
+            },
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "psychedelic rock"
+                },
+                {
+                    "count": 1,
+                    "name": "progressive rock"
+                }
+            ]
+        },
+        {
+            "id": "4a903390-4381-4c32-90d0-803bd4f9ce34",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 90,
+            "name": "Fred Waring & His Pennsylvanians",
+            "sort-name": "Waring, Fred & His Pennsylvanians",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "life-span": {
+                "ended": null
+            },
+            "aliases": [
+                {
+                    "sort-name": "Fred Waring's Pennyslvanians",
+                    "name": "Fred Waring's Pennyslvanians",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Fred Waring & the Pennsylvanians",
+                    "name": "Fred Waring & the Pennsylvanians",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Waring's Pensylvanians",
+                    "name": "Waring's Pensylvanians",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Fred Waring & Pennsylvanians",
+                    "name": "Fred Waring & Pennsylvanians",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Fred Waring and the Pennsylvanians",
+                    "name": "Fred Waring and the Pennsylvanians",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Fred Waring's Pennsylvanians",
+                    "name": "Fred Waring's Pennsylvanians",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Fred Warring & His Pennsylvanians",
+                    "name": "Fred Warring & His Pennsylvanians",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Waring's Pennsylvanians",
+                    "name": "Waring's Pennsylvanians",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Waring, Fred & Pennsylvanians, The",
+                    "name": "Fred Waring & The Pennsylvanians",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ]
+        },
+        {
+            "id": "28b020fa-d9b8-4d92-805c-54cd1b0197b7",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 89,
+            "name": "Jacob Fred Jazz Odyssey",
+            "sort-name": "Jacob Fred Jazz Odyssey",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "life-span": {
+                "begin": "1994",
+                "ended": null
+            },
+            "aliases": [
+                {
+                    "sort-name": "JFJO",
+                    "name": "JFJO",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ],
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "us"
+                },
+                {
+                    "count": 1,
+                    "name": "jazz fusion"
+                },
+                {
+                    "count": 1,
+                    "name": "tulsa"
+                },
+                {
+                    "count": 2,
+                    "name": "jazz"
+                },
+                {
+                    "count": 1,
+                    "name": "oklahoma"
+                },
+                {
+                    "count": 1,
+                    "name": "free jazz"
+                }
+            ]
+        },
+        {
+            "id": "05cfb5c7-0152-41f4-a9c9-622e8f710dfa",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 89,
+            "name": "John Fred & His Playboy Band",
+            "sort-name": "Fred, John & His Playboy Band",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "34f02dc4-3173-4c68-86d1-c82504759342",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Baton Rouge",
+                "sort-name": "Baton Rouge",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "end-area": {
+                "id": "3c5a0506-d852-4e96-8d1e-d8126328f3be",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "New Orleans",
+                "sort-name": "New Orleans",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "isnis": [
+                "0000000114510659"
+            ],
+            "life-span": {
+                "begin": "1956-05-08",
+                "end": "1969-04-14",
+                "ended": true
+            },
+            "aliases": [
+                {
+                    "sort-name": "John Fred & The Playboys",
+                    "name": "John Fred & The Playboys",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "John Fred and the Playboys",
+                    "name": "John Fred and the Playboys",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "John Fred and the Play Boy Band",
+                    "name": "John Fred and the Play Boy Band",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "John Fred & His Playboyband",
+                    "name": "John Fred & His Playboyband",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "John Fred And His Playboy Band",
+                    "name": "John Fred And His Playboy Band",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "John Fred & Playboy Band",
+                    "name": "John Fred & Playboy Band",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "John Fred & the Play Boy Band",
+                    "name": "John Fred & the Play Boy Band",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "John Fred and His Playboyband",
+                    "name": "John Fred and His Playboyband",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "John Fred & The Playboyband",
+                    "name": "John Fred & The Playboyband",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "John Fred and His Playboys",
+                    "name": "John Fred and His Playboys",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "John Fred and His Play Boy Band",
+                    "name": "John Fred and His Play Boy Band",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "John Fred",
+                    "name": "John Fred",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "John Fred & Hiss Playboy Band",
+                    "name": "John Fred & Hiss Playboy Band",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "John Fred & His Playboys",
+                    "name": "John Fred & His Playboys",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "John Fred & The Playboy Band",
+                    "name": "John Fred & The Playboy Band",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "John Fred & Playboyband",
+                    "name": "John Fred & Playboyband",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ],
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "psychedelic pop"
+                },
+                {
+                    "count": 1,
+                    "name": "new orleans r&b"
+                },
+                {
+                    "count": 1,
+                    "name": "bubblegum"
+                },
+                {
+                    "count": 1,
+                    "name": "pop rock"
+                }
+            ]
+        },
+        {
+            "id": "b98a0736-05b4-47f6-8add-efcc89f6f1c8",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 88,
+            "name": "The Fred Hersch Trio",
+            "sort-name": "Hersch, Fred, Trio, The",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "life-span": {
+                "ended": null
+            },
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "jazz"
+                }
+            ]
+        },
+        {
+            "id": "1065e6e0-b6b3-4224-9121-4502e52b9f9e",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 85,
+            "name": "A Halo Called Fred",
+            "sort-name": "A Halo Called Fred",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "be136e58-ccf5-47f0-a000-6e8d7eb3bae0",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 85,
+            "name": "The Color Fred",
+            "sort-name": "Color Fred, The",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "life-span": {
+                "begin": "2003",
+                "ended": null
+            }
+        },
+        {
+            "id": "0e8270ae-a4f5-4e20-92cf-b188fe4ae83b",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 81,
+            "name": "Fred Frith Guitar Quartet",
+            "sort-name": "Frith, Fred, Guitar Quartet",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "life-span": {
+                "begin": "1989",
+                "ended": null
+            },
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "jazz"
+                }
+            ]
+        },
+        {
+            "id": "985bdbe7-ebf2-42b1-8ad6-5bb619385e67",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 80,
+            "name": "Fred Wesley and The J.B.’s",
+            "sort-name": "Wesley, Fred and J.B.’s, the",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "isnis": [
+                "0000000121663143"
+            ],
+            "life-span": {
+                "ended": null
+            },
+            "aliases": [
+                {
+                    "sort-name": "Fred Wesley & The New J.B.'s",
+                    "name": "Fred Wesley & The New J.B.'s",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Fred Wesley & The New JB's",
+                    "name": "Fred Wesley & The New JB's",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Fred Wesley & The J.B.'s",
+                    "name": "Fred Wesley & The J.B.'s",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Fred Wesley & The JB's",
+                    "name": "Fred Wesley & The JB's",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Fred and the New J.B.'s",
+                    "name": "Fred and the New J.B.'s",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "The J.B.'s & Fred Wesley",
+                    "name": "The J.B.'s & Fred Wesley",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "West, Fred & J.B.'s, The",
+                    "name": "Fred West & The J.B.'s",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ],
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "jazz"
+                }
+            ]
+        },
+        {
+            "id": "2cea1456-daef-4bb1-b63c-4b6df03ebbd5",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 80,
+            "name": "The Fred Hersch Group",
+            "sort-name": "Hersch, Fred, The, Group",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "6c843bf3-a854-47ea-b1cf-ba40675710b7",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 79,
+            "name": "Fred Sherry String Quartet",
+            "sort-name": "Fred Sherry String Quartet",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "isnis": [
+                "0000000083378092"
+            ],
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "0980008b-f9cd-412e-b062-84212b756f4a",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 74,
+            "name": "Fred Williams & The Jewels Band",
+            "sort-name": "Williams, Fred & Jewels Band, The",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "8bfb16d8-fedf-4639-933f-279cd3a57678",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 73,
+            "name": "Fred Martin and The Levite Camp",
+            "sort-name": "Fred Martin and The Levite Camp",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "life-span": {
+                "ended": null
+            }
+        }
+    ]
+}

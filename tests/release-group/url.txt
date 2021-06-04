@@ -1,0 +1,11 @@
+
+http://musicbrainz.org/ws/2/release-group/{uuid}?fmt=json&inc=artists+releases+aliases+annotation+tags+ratings+genres+area-rels+artist-rels+event-rels+instrument-rels+label-rels+place-rels+recording-rels+release-rels+release-group-rels+series-rels+url-rels+work-rels+
+
+
+artists+releases
+
+aliases+annotation+tags+ratings+genres
+
+area-rels+artist-rels+event-rels+instrument-rels+label-rels+place-rels+recording-rels+release-rels+release-group-rels+series-rels+url-rels+work-rels+
+
+
